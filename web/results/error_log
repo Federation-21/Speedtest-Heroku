@@ -1,0 +1,39 @@
+[29-Jul-2020 07:16:29 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:16:29 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:16:29 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 07:26:49 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:26:49 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:26:49 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 07:28:39 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:28:39 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:28:39 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 07:51:13 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:51:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:51:13 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 07:57:34 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:57:34 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:57:34 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 07:58:13 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:58:13 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 07:58:13 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 08:03:56 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 08:03:56 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 08:03:56 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 08:09:35 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 08:09:35 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 08:09:35 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 08:56:09 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 08:56:09 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 08:56:09 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 08:57:00 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 08:57:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 08:57:00 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 08:57:54 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 08:57:54 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 08:57:54 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 14:38:19 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 14:38:19 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 14:38:19 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
+[29-Jul-2020 17:34:00 UTC] PHP Warning:  mysqli::__construct(): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 17:34:00 UTC] PHP Warning:  mysqli::__construct(): (HY000/2002): php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/saifur/shakil.sh/results/telemetry.php on line 34
+[29-Jul-2020 17:34:00 UTC] PHP Warning:  mysqli::prepare(): Couldn't fetch mysqli in /home/saifur/shakil.sh/results/telemetry.php on line 35
