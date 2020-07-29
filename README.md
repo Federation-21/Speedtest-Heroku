@@ -1,6 +1,6 @@
 
 
-# LibreSpeed
+# Heroku HTML5 Internet SpeedTest 
 
 No Flash, No Java, No Websocket, No Bullshit.
 
