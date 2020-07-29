@@ -1,4 +1,4 @@
-![Speedtest-Heroku Logo](https://github.com/Federation-21/Speedtest-Heroku/blob/master/web/base.png?raw=true)
+
 
 # LibreSpeed
 
