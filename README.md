@@ -1,28 +1,32 @@
-# php-getting-started
+![LibreSpeed Logo](https://github.com/librespeed/speedtest/blob/master/.logo/logo3.png?raw=true)
 
-A barebones PHP app that makes use of the [Silex](http://silex.sensiolabs.org/) web framework, which can easily be deployed to Heroku.
+# LibreSpeed
 
-This application supports the [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php) article - check it out.
+No Flash, No Java, No Websocket, No Bullshit.
 
-## Deploying
-
-Install the [Heroku Toolbelt](https://toolbelt.heroku.com/).
-
-```sh
-$ git clone git@github.com:heroku/php-getting-started.git # or clone your own fork
-$ cd php-getting-started
-$ heroku create
-$ git push heroku master
-$ heroku open
-```
-
-or
-
+This is a very lightweight Speedtest implemented in Javascript, using XMLHttpRequest and Web Workers.
+## Installation
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-## Documentation
+## Try it
+[Take a Speedtest](https://speedtestnow.herokuapp.com)
 
-For more information about using PHP on Heroku, see these Dev Center articles:
+## Compatibility
+All modern browsers are supported: IE11, latest Edge, latest Chrome, latest Firefox, latest Safari.  
+Works with mobile versions too.
 
-- [Getting Started with PHP on Heroku](https://devcenter.heroku.com/articles/getting-started-with-php)
-- [PHP on Heroku](https://devcenter.heroku.com/categories/php)
+## Features
+* Download
+* Upload
+* Ping
+* Jitter
+* IP Address, ISP, distance from server (optional)
+* Telemetry (optional)
+* Results sharing (optional)
+* Multiple Points of Test (optional)
+
+
+
+
+
+
