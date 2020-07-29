@@ -49,7 +49,7 @@ function Speedtest() {
   this._settings = {}; //settings for the speedtest worker
   this._state = 0; //0=adding settings, 1=adding servers, 2=server selection done, 3=test running, 4=done
   console.log(
-    "LibreSpeed by Federico Dossena v5.2 - https://github.com/librespeed/speedtest"
+    "Heroku SpeedTest v1.1 - https://github.com/Federation-21/Speedtest-Heroku/"
   );
 }
 
