@@ -1,6 +1,6 @@
 {
-  "name": "Start on Heroku: PHP",
-  "description": "A barebones PHP app that makes use of the Silex web framework",
-  "repository": "https://github.com/heroku/php-getting-started",
+  "name": "Speedtest-Heroku",
+  "description": "Speedtest-Heroku,Self-hosted Heroku based Html5 Speedtest Script. Test Your Bandwidth Ping Jitter IP From Anywhere.",
+  "repository": "https://github.com/Federation-21/Speedtest-Heroku",
   "addons": []
 }
