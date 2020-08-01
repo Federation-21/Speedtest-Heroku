@@ -8,6 +8,8 @@ This is a very lightweight Speedtest implemented in Javascript, using XMLHttpReq
 ## Installation
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
+Deploy and Run
+
 ## Try it
 [Take a Speedtest](https://speedtestnow.herokuapp.com)
 
