@@ -3,6 +3,18 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no, user-scalable=no">
 <meta charset="UTF-8">
 <script src="speedtest.js"></script>
+	
+	<script>
+var temp = "(Best) Heroku Server";
+var mySelect = document.getElementById('server');
+
+for(var i, j = 0; i = mySelect.options[j]; j++) {
+    if(i.value == temp) {
+        mySelect.selectedIndex = j;
+        break;
+    }
+}
+</script>
 
 <script>
 function I(i){return document.getElementById(i);}
