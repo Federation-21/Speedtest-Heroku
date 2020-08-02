@@ -1,7 +1,7 @@
 /*
-	LibreSpeed - Main
-	by Federico Dossena
-	https://github.com/librespeed/speedtest/
+	SpeedTest - Heroku
+	by Federation-21
+	https://github.com/Federation-21/Speedtest-Heroku
 	GNU LGPLv3 License
 */
 
