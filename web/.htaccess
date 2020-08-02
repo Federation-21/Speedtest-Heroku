@@ -5,7 +5,7 @@ RewriteEngine On
 ErrorDocument 404 /403.html
 ErrorDocument 500 /403.html
 
-RewriteBase /
+
 
 RewriteCond %{REQUEST_URI} ^/404/$
 RewriteRule ^(.*)$ /403.html [L]
