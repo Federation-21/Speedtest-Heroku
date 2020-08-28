@@ -403,8 +403,8 @@ function updateSponsor(){
 <meta property="og:type" content="website">
 <meta property="og:title" content="Heroku Speedtest">
 <meta property="og:description" content="Free Heroku Based Speedtest.Try It Now!">
-<meta property="og:url" content="https://speedtestnow.herokuapp.com">
-<meta property="og:image" content="//speedtestnow.herokuapp.com/social.png">
+<meta property="og:url" content="https://speed-i.herokuapp.com">
+<meta property="og:image" content="//speed-i.herokuapp.com/social.png">
 <meta property="og:image:type" content="image/png">
 <meta name="google-site-verification" content="uE6pGADfltzG2RmF2wSQq69ynJAVX5Lc6_fEQnc0Jzw" />
 
@@ -420,7 +420,7 @@ function updateSponsor(){
 	<div id="startStopBtn" onclick="startStop()"></div>
 	<a class="privacy" href="#" onclick="I('privacyPolicy').style.display=''">Privacy</a>
 	<div id="serverArea">
-		Server: <select id="server" onchange="s.setSelectedServer(SPEEDTEST_SERVERS[this.value]); updateSponsor();"><option value="0">Bari, Italy (GARR)</option><option value="1">Bologna, Italy (GARR)</option><option value="3">Frankfurt, Germany (DigitalOcean)</option><option value="4">Helsinki, Finland (1) (Hetzner)</option><option value="5">Helsinki, Finland (2) (Hetzner)</option><option value="6">Helsinki, Finland (3) (Hetzner)</option><option value="7">Helsinki, Finland (5) (Hetzner)</option><option value="8">Las Vegas, United States (BuyVM)</option><option value="9">New York, United States (BuyVM)</option><option value="11">Nuremberg, Germany (1) (Hetzner)</option><option value="12">Nuremberg, Germany (2) (Netcup)</option><option value="13">Nuremberg, Germany (3) (Hetzner)</option><option value="15">Nuremberg, Germany (5) (Hetzner)</option><option value="16">Nuremberg, Germany (6) (Hetzner)</option><option value="19">Roma, Italy (GARR)</option><option value="20">Roost, Luxembourg (BuyVM)</option><option value="23">Sydney, Australia (Linode)</option></select>
+		Server: <select id="server" onchange="s.setSelectedServer(SPEEDTEST_SERVERS[this.value]); updateSponsor();"></select>
 		<div id="sponsorArea" style="visibility: visible;">Sponsor: <span id="sponsor"><a href="https://fossdaily.xyz/" target="_blank">Foss Daily</a></span></div>
 	</div>
 	<div id="test">
