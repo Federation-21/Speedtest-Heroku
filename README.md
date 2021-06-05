@@ -11,7 +11,7 @@ This is a very lightweight Speedtest implemented in Javascript, using XMLHttpReq
 Deploy and Run
 
 ## Try it
-[Take a Speedtest](https://speedtestnow.herokuapp.com)
+[Take a Speedtest](https://live-speeder.herokuapp.com/)
 
 ## Compatibility
 All modern browsers are supported: IE11, latest Edge, latest Chrome, latest Firefox, latest Safari.  
