@@ -2,5 +2,6 @@
   "name": "Speedtest-Heroku",
   "description": "Speedtest-Heroku,Self-hosted Heroku based Html5 Speedtest Script. Test Your Bandwidth Ping Jitter IP From Anywhere.",
   "repository": "https://github.com/Federation-21/Speedtest-Heroku",
-  "addons": []
+  "addons": [],
+  "stack": "heroku-22"
 }
